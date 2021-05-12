@@ -1,0 +1,6 @@
+context_path: adult.run.ProjectContext
+project_name: "adult"
+project_version: "0.16.6"
+package_name: "adult"
+hooks:
+  - adult.hooks.project_hooks
